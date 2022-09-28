@@ -1,5 +1,5 @@
 # Git Course Repository
 
-![./Binossauro.png](É uma bilada Cino)
+![Binossauro](./Binossauro.png)
 
 This reposity is used only for git studies!
